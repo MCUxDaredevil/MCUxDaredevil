@@ -20,4 +20,4 @@ I am a Freshman in AI and Data Science, a casual Discord chatbot developer and a
 </details>
 
 <br>
-PS: This profile is still yet to be complete :)
+PS: This profile is yet to be complete :)
