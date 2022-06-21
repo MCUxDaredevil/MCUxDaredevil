@@ -12,7 +12,7 @@ I am a Freshman in AI and Data Science, a casual Discord chatbot developer and a
 
 <details>
   <summary>
-    <h3>Latest Vibe Check:</h3>
+    <h3>Last Seen Vibing To:</h3>
   </summary>
   <a href="https://open.spotify.com/user/ifyrjyrfes3odhyt197z70cvi">
     <img src="https://spotify-status-mcuxdaredevil.vercel.app/api/spotify/?&background_color=0d1117&border_color=ffffff" alt="Last Playing on Spotify">
