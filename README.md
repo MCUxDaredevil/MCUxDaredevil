@@ -12,4 +12,4 @@ I am a Sophomore in AI and Data Science, a casual Discord chatbot developer and 
 
 <br>
 <br>
-PS: This profile is yet to be complete :)
+PS: This profile is yet to be complete so please refresh if something is missing :)
